@@ -1,6 +1,6 @@
 # Dali-Tech-D8X3C-Thermal-Camera-Backpack
 Customized Dali Tech Thermal Camera Backpack with integrated analog to UVC and serial for debug.
-
+![alt text](https://raw.githubusercontent.com/TOA-HI/Dali-Tech-D8X3C-Thermal-Camera-Backpack/refs/heads/main/Pictures/thermal%20(2).jpg)
 # Goal
 Thermal cameras are a good tool to observe heat distributions; however, they are **PRICY**, especially for high-resolution models. This project aims to provide a cost-effective alternative to the common FLIR series thermal camera. By reverse engineering and designing custom acquisition hardware, one can get a 640 $\times$ 480 thermal camera for roughly **\$250** (on eBay), compared with the FLIR Boson series that has the same resolution, which is worth way more than roughly \$4000+. 
 
