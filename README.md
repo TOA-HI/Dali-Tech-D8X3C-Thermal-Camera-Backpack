@@ -8,4 +8,8 @@ Of course, the image quality  ($\geq 60mk$) and the refresh rate (50 Hz Analog o
 
 The Dali D8X3C camera is an Uncooled FPA thermal camera, with model numbers D883C and D843C offering resolutions of $384 \times 288$ and $640 \times 480$, respectively. Both camera provides a 50Hz analog output along with a 14-bit digital thermal signal. These cameras, which were once used as surveillance devices during the pandemic, for example, remote screening of body temperature in customs or other public spaces. After the pandemic, these cameras can be easily purchased on Liqudation or the second-hand market, for example, on eBay.
 
+# Software/Firmware side development
+Most of the software side records can be found @ gamerpaddy's wiki below:
+https://wiki.recessim.com/view/Dali_D8X3N_Thermal_Camera
+
 More to be updated (including source files and even HW version 1.1), stay tuned!
